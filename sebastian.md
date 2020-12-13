@@ -3,3 +3,5 @@
 This is a text based file for developers alike
 
 This is a new change.
+
+This is a new change.
